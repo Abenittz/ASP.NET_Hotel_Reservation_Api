@@ -37,13 +37,9 @@ Welcome to the Hotel Reservation Web API built with ASP.NET 7.0 and MongoDB. Thi
 
 5. **API Documentation:** Explore the API documentation to understand available endpoints and how to interact with them.
 
-## API Documentation
-
-API documentation, including endpoint details and examples, is available at [https://yourwebsite.com/api/docs](https://yourwebsite.com/api/docs). This Swagger-based documentation provides an interactive and user-friendly interface.
-
 ## Contributions
 
-Contributions to enhance and refine the Hotel Reservation Web API are welcome. Feel free to submit issues or pull requests.
+Feel free to submit issues or pull requests.
 
 ## License
 
